@@ -1,0 +1,30 @@
+_repo: Kino-und-KunstLichtb-hnen-Bibliothek-Nr.-2_45725
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45725-h/images/cover_hr.jpg
+creator:
+  author:
+    agent_name: Häfker, Hermann
+    alias: Hafker, Hermann
+    birthdate: 1873
+    deathdate: 1939
+    gutenberg_agent_id: '39889'
+    url: http://www.gutenberg.org/2009/agents/39889
+    wikipedia: http://en.wikipedia.org/wiki/Hermann_H%C3%A4fker
+description: ''
+gutenberg_issued: '2014-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45725'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Motion pictures'
+- !lcc 'PN'
+title: 'Kino und Kunst
+
+  Lichtbühnen-Bibliothek Nr. 2'
+url: http://www.gutenberg.org/ebooks/45725
